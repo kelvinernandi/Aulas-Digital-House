@@ -1,0 +1,30 @@
+.body{
+    padding: 100px 540px;
+    text-align: justify;
+    font-family: 'Poppins',sans-serif;
+
+}
+
+.text1{
+    font-size: 15px;
+}
+
+.titulo1{
+    font-size: 20px;
+    
+}
+
+
+.lista1{
+    font-size: 15px;
+}
+
+.linha{
+    width: 800px;
+    border: 1px solid #000;
+ }
+
+
+.icones{
+    padding: 10px   ;
+}
